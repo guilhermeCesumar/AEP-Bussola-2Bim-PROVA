@@ -1,5 +1,5 @@
 import pokemonSchema from "./pokemon.schema";
-import { writeFile } from "fs/promises";
+import { readFile, writeFile } from "fs/promises";
 
 export class PokemonService {
   async list() {
@@ -32,5 +32,23 @@ export class PokemonService {
     pokemonSchema.insertMany(tratedList); // Salvando no banco
 
     return tratedList;
+  }
+
+  async pokemonByType() {
+    const pokemons = await readFile("pokemonList.json", "utf-8");
+    const pokemonsPorTipo = JSON.parse(pokemons).reduce(
+      (pokemonsPorTipo, currentPokemon) => {
+        pokemonsPorTipo[currentPokemon.tipo] =
+          pokemonsPorTipo[currentPokemon.tipo] || [];
+        pokemonsPorTipo[currentPokemon.tipo].push(currentPokemon);
+        return pokemonsPorTipo;
+      },
+      {}
+    );
+    await writeFile(
+      "pokemonListByType.json",
+      JSON.stringify(pokemonsPorTipo, null, 2)
+    );
+    return pokemonsPorTipo;
   }
 }

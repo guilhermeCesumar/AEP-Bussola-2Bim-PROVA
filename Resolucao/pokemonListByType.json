@@ -1,0 +1,3615 @@
+{
+  "grass,poison": [
+    {
+      "nome": "bulbasaur",
+      "tipo": [
+        "grass",
+        "poison"
+      ],
+      "status": [
+        "hp - 45",
+        "attack - 49",
+        "defense - 49",
+        "special-attack - 65",
+        "special-defense - 65",
+        "speed - 45"
+      ],
+      "numeroDex": 1,
+      "altura": 7,
+      "peso": 69,
+      "moves": [
+        "razor-wind",
+        "swords-dance",
+        "cut",
+        "bind"
+      ]
+    },
+    {
+      "nome": "ivysaur",
+      "tipo": [
+        "grass",
+        "poison"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 62",
+        "defense - 63",
+        "special-attack - 80",
+        "special-defense - 80",
+        "speed - 60"
+      ],
+      "numeroDex": 2,
+      "altura": 10,
+      "peso": 130,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "bind",
+        "vine-whip"
+      ]
+    },
+    {
+      "nome": "venusaur",
+      "tipo": [
+        "grass",
+        "poison"
+      ],
+      "status": [
+        "hp - 80",
+        "attack - 82",
+        "defense - 83",
+        "special-attack - 100",
+        "special-defense - 100",
+        "speed - 80"
+      ],
+      "numeroDex": 3,
+      "altura": 20,
+      "peso": 1000,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "bind",
+        "vine-whip"
+      ]
+    },
+    {
+      "nome": "oddish",
+      "tipo": [
+        "grass",
+        "poison"
+      ],
+      "status": [
+        "hp - 45",
+        "attack - 50",
+        "defense - 55",
+        "special-attack - 75",
+        "special-defense - 65",
+        "speed - 30"
+      ],
+      "numeroDex": 43,
+      "altura": 5,
+      "peso": 54,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "headbutt",
+        "take-down"
+      ]
+    },
+    {
+      "nome": "gloom",
+      "tipo": [
+        "grass",
+        "poison"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 65",
+        "defense - 70",
+        "special-attack - 85",
+        "special-defense - 75",
+        "speed - 40"
+      ],
+      "numeroDex": 44,
+      "altura": 8,
+      "peso": 86,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "headbutt",
+        "take-down"
+      ]
+    },
+    {
+      "nome": "vileplume",
+      "tipo": [
+        "grass",
+        "poison"
+      ],
+      "status": [
+        "hp - 75",
+        "attack - 80",
+        "defense - 85",
+        "special-attack - 110",
+        "special-defense - 90",
+        "speed - 50"
+      ],
+      "numeroDex": 45,
+      "altura": 12,
+      "peso": 186,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "headbutt",
+        "body-slam"
+      ]
+    },
+    {
+      "nome": "bellsprout",
+      "tipo": [
+        "grass",
+        "poison"
+      ],
+      "status": [
+        "hp - 50",
+        "attack - 75",
+        "defense - 35",
+        "special-attack - 70",
+        "special-defense - 30",
+        "speed - 40"
+      ],
+      "numeroDex": 69,
+      "altura": 7,
+      "peso": 40,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "bind",
+        "slam"
+      ]
+    },
+    {
+      "nome": "weepinbell",
+      "tipo": [
+        "grass",
+        "poison"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 90",
+        "defense - 50",
+        "special-attack - 85",
+        "special-defense - 45",
+        "speed - 55"
+      ],
+      "numeroDex": 70,
+      "altura": 10,
+      "peso": 64,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "bind",
+        "slam"
+      ]
+    },
+    {
+      "nome": "victreebel",
+      "tipo": [
+        "grass",
+        "poison"
+      ],
+      "status": [
+        "hp - 80",
+        "attack - 105",
+        "defense - 65",
+        "special-attack - 100",
+        "special-defense - 70",
+        "speed - 70"
+      ],
+      "numeroDex": 71,
+      "altura": 17,
+      "peso": 155,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "bind",
+        "vine-whip"
+      ]
+    }
+  ],
+  "fire": [
+    {
+      "nome": "charmander",
+      "tipo": [
+        "fire"
+      ],
+      "status": [
+        "hp - 39",
+        "attack - 52",
+        "defense - 43",
+        "special-attack - 60",
+        "special-defense - 50",
+        "speed - 65"
+      ],
+      "numeroDex": 4,
+      "altura": 6,
+      "peso": 85,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "scratch"
+      ]
+    },
+    {
+      "nome": "charmeleon",
+      "tipo": [
+        "fire"
+      ],
+      "status": [
+        "hp - 58",
+        "attack - 64",
+        "defense - 58",
+        "special-attack - 80",
+        "special-defense - 65",
+        "speed - 80"
+      ],
+      "numeroDex": 5,
+      "altura": 11,
+      "peso": 190,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "scratch"
+      ]
+    },
+    {
+      "nome": "vulpix",
+      "tipo": [
+        "fire"
+      ],
+      "status": [
+        "hp - 38",
+        "attack - 41",
+        "defense - 40",
+        "special-attack - 50",
+        "special-defense - 65",
+        "speed - 65"
+      ],
+      "numeroDex": 37,
+      "altura": 6,
+      "peso": 99,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+      ]
+    },
+    {
+      "nome": "ninetales",
+      "tipo": [
+        "fire"
+      ],
+      "status": [
+        "hp - 73",
+        "attack - 76",
+        "defense - 75",
+        "special-attack - 81",
+        "special-defense - 100",
+        "speed - 100"
+      ],
+      "numeroDex": 38,
+      "altura": 11,
+      "peso": 199,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+      ]
+    },
+    {
+      "nome": "growlithe",
+      "tipo": [
+        "fire"
+      ],
+      "status": [
+        "hp - 55",
+        "attack - 70",
+        "defense - 45",
+        "special-attack - 70",
+        "special-defense - 50",
+        "speed - 60"
+      ],
+      "numeroDex": 58,
+      "altura": 7,
+      "peso": 190,
+      "moves": [
+        "double-kick",
+        "headbutt",
+        "body-slam",
+        "take-down"
+      ]
+    },
+    {
+      "nome": "arcanine",
+      "tipo": [
+        "fire"
+      ],
+      "status": [
+        "hp - 90",
+        "attack - 110",
+        "defense - 80",
+        "special-attack - 100",
+        "special-defense - 80",
+        "speed - 95"
+      ],
+      "numeroDex": 59,
+      "altura": 19,
+      "peso": 1550,
+      "moves": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge"
+      ]
+    },
+    {
+      "nome": "ponyta",
+      "tipo": [
+        "fire"
+      ],
+      "status": [
+        "hp - 50",
+        "attack - 85",
+        "defense - 55",
+        "special-attack - 65",
+        "special-defense - 65",
+        "speed - 90"
+      ],
+      "numeroDex": 77,
+      "altura": 10,
+      "peso": 300,
+      "moves": [
+        "stomp",
+        "double-kick",
+        "headbutt",
+        "horn-drill"
+      ]
+    },
+    {
+      "nome": "rapidash",
+      "tipo": [
+        "fire"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 100",
+        "defense - 70",
+        "special-attack - 80",
+        "special-defense - 80",
+        "speed - 105"
+      ],
+      "numeroDex": 78,
+      "altura": 17,
+      "peso": 950,
+      "moves": [
+        "pay-day",
+        "swords-dance",
+        "stomp",
+        "double-kick"
+      ]
+    },
+    {
+      "nome": "magmar",
+      "tipo": [
+        "fire"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 95",
+        "defense - 57",
+        "special-attack - 100",
+        "special-defense - 85",
+        "speed - 93"
+      ],
+      "numeroDex": 126,
+      "altura": 13,
+      "peso": 445,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "mega-kick"
+      ]
+    },
+    {
+      "nome": "flareon",
+      "tipo": [
+        "fire"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 130",
+        "defense - 60",
+        "special-attack - 95",
+        "special-defense - 110",
+        "speed - 65"
+      ],
+      "numeroDex": 136,
+      "altura": 9,
+      "peso": 250,
+      "moves": [
+        "pay-day",
+        "double-kick",
+        "sand-attack",
+        "headbutt"
+      ]
+    }
+  ],
+  "fire,flying": [
+    {
+      "nome": "charizard",
+      "tipo": [
+        "fire",
+        "flying"
+      ],
+      "status": [
+        "hp - 78",
+        "attack - 84",
+        "defense - 78",
+        "special-attack - 109",
+        "special-defense - 85",
+        "speed - 100"
+      ],
+      "numeroDex": 6,
+      "altura": 17,
+      "peso": 905,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "scratch"
+      ]
+    },
+    {
+      "nome": "moltres",
+      "tipo": [
+        "fire",
+        "flying"
+      ],
+      "status": [
+        "hp - 90",
+        "attack - 100",
+        "defense - 90",
+        "special-attack - 125",
+        "special-defense - 85",
+        "speed - 90"
+      ],
+      "numeroDex": 146,
+      "altura": 20,
+      "peso": 600,
+      "moves": [
+        "razor-wind",
+        "gust",
+        "wing-attack",
+        "whirlwind"
+      ]
+    }
+  ],
+  "water": [
+    {
+      "nome": "squirtle",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 44",
+        "attack - 48",
+        "defense - 65",
+        "special-attack - 50",
+        "special-defense - 64",
+        "speed - 43"
+      ],
+      "numeroDex": 7,
+      "altura": 5,
+      "peso": 90,
+      "moves": [
+        "mega-punch",
+        "ice-punch",
+        "mega-kick",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "wartortle",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 59",
+        "attack - 63",
+        "defense - 80",
+        "special-attack - 65",
+        "special-defense - 80",
+        "speed - 58"
+      ],
+      "numeroDex": 8,
+      "altura": 10,
+      "peso": 225,
+      "moves": [
+        "mega-punch",
+        "ice-punch",
+        "mega-kick",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "blastoise",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 79",
+        "attack - 83",
+        "defense - 100",
+        "special-attack - 85",
+        "special-defense - 105",
+        "speed - 78"
+      ],
+      "numeroDex": 9,
+      "altura": 16,
+      "peso": 855,
+      "moves": [
+        "mega-punch",
+        "ice-punch",
+        "mega-kick",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "psyduck",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 50",
+        "attack - 52",
+        "defense - 48",
+        "special-attack - 65",
+        "special-defense - 50",
+        "speed - 55"
+      ],
+      "numeroDex": 54,
+      "altura": 8,
+      "peso": 196,
+      "moves": [
+        "mega-punch",
+        "pay-day",
+        "ice-punch",
+        "scratch"
+      ]
+    },
+    {
+      "nome": "golduck",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 80",
+        "attack - 82",
+        "defense - 78",
+        "special-attack - 95",
+        "special-defense - 80",
+        "speed - 85"
+      ],
+      "numeroDex": 55,
+      "altura": 17,
+      "peso": 766,
+      "moves": [
+        "mega-punch",
+        "pay-day",
+        "ice-punch",
+        "scratch"
+      ]
+    },
+    {
+      "nome": "poliwag",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 50",
+        "defense - 40",
+        "special-attack - 40",
+        "special-defense - 40",
+        "speed - 90"
+      ],
+      "numeroDex": 60,
+      "altura": 6,
+      "peso": 124,
+      "moves": [
+        "pound",
+        "double-slap",
+        "headbutt",
+        "body-slam"
+      ]
+    },
+    {
+      "nome": "poliwhirl",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 65",
+        "defense - 65",
+        "special-attack - 50",
+        "special-defense - 50",
+        "speed - 90"
+      ],
+      "numeroDex": 61,
+      "altura": 10,
+      "peso": 200,
+      "moves": [
+        "pound",
+        "double-slap",
+        "mega-punch",
+        "ice-punch"
+      ]
+    },
+    {
+      "nome": "seel",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 45",
+        "defense - 55",
+        "special-attack - 45",
+        "special-defense - 70",
+        "speed - 45"
+      ],
+      "numeroDex": 86,
+      "altura": 11,
+      "peso": 900,
+      "moves": [
+        "pay-day",
+        "slam",
+        "headbutt",
+        "horn-drill"
+      ]
+    },
+    {
+      "nome": "shellder",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 30",
+        "attack - 65",
+        "defense - 100",
+        "special-attack - 45",
+        "special-defense - 25",
+        "speed - 40"
+      ],
+      "numeroDex": 90,
+      "altura": 3,
+      "peso": 40,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge"
+      ]
+    },
+    {
+      "nome": "krabby",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 30",
+        "attack - 105",
+        "defense - 90",
+        "special-attack - 25",
+        "special-defense - 25",
+        "speed - 50"
+      ],
+      "numeroDex": 98,
+      "altura": 4,
+      "peso": 65,
+      "moves": [
+        "vice-grip",
+        "guillotine",
+        "swords-dance",
+        "cut"
+      ]
+    },
+    {
+      "nome": "kingler",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 55",
+        "attack - 130",
+        "defense - 115",
+        "special-attack - 50",
+        "special-defense - 50",
+        "speed - 75"
+      ],
+      "numeroDex": 99,
+      "altura": 13,
+      "peso": 600,
+      "moves": [
+        "vice-grip",
+        "guillotine",
+        "swords-dance",
+        "cut"
+      ]
+    },
+    {
+      "nome": "horsea",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 30",
+        "attack - 40",
+        "defense - 70",
+        "special-attack - 70",
+        "special-defense - 25",
+        "speed - 60"
+      ],
+      "numeroDex": 116,
+      "altura": 4,
+      "peso": 80,
+      "moves": [
+        "razor-wind",
+        "headbutt",
+        "take-down",
+        "double-edge"
+      ]
+    },
+    {
+      "nome": "seadra",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 55",
+        "attack - 65",
+        "defense - 95",
+        "special-attack - 95",
+        "special-defense - 45",
+        "speed - 85"
+      ],
+      "numeroDex": 117,
+      "altura": 12,
+      "peso": 250,
+      "moves": [
+        "headbutt",
+        "take-down",
+        "double-edge",
+        "leer"
+      ]
+    },
+    {
+      "nome": "goldeen",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 45",
+        "attack - 67",
+        "defense - 60",
+        "special-attack - 35",
+        "special-defense - 50",
+        "speed - 63"
+      ],
+      "numeroDex": 118,
+      "altura": 6,
+      "peso": 150,
+      "moves": [
+        "swords-dance",
+        "headbutt",
+        "horn-attack",
+        "fury-attack"
+      ]
+    },
+    {
+      "nome": "seaking",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 80",
+        "attack - 92",
+        "defense - 65",
+        "special-attack - 65",
+        "special-defense - 80",
+        "speed - 68"
+      ],
+      "numeroDex": 119,
+      "altura": 13,
+      "peso": 390,
+      "moves": [
+        "swords-dance",
+        "headbutt",
+        "horn-attack",
+        "fury-attack"
+      ]
+    },
+    {
+      "nome": "staryu",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 30",
+        "attack - 45",
+        "defense - 55",
+        "special-attack - 70",
+        "special-defense - 55",
+        "speed - 85"
+      ],
+      "numeroDex": 120,
+      "altura": 8,
+      "peso": 345,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge"
+      ]
+    },
+    {
+      "nome": "magikarp",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 20",
+        "attack - 10",
+        "defense - 55",
+        "special-attack - 15",
+        "special-defense - 20",
+        "speed - 80"
+      ],
+      "numeroDex": 129,
+      "altura": 9,
+      "peso": 100,
+      "moves": [
+        "tackle",
+        "hydro-pump",
+        "splash",
+        "flail"
+      ]
+    },
+    {
+      "nome": "vaporeon",
+      "tipo": [
+        "water"
+      ],
+      "status": [
+        "hp - 130",
+        "attack - 65",
+        "defense - 60",
+        "special-attack - 110",
+        "special-defense - 95",
+        "speed - 65"
+      ],
+      "numeroDex": 134,
+      "altura": 10,
+      "peso": 290,
+      "moves": [
+        "pay-day",
+        "double-kick",
+        "sand-attack",
+        "headbutt"
+      ]
+    }
+  ],
+  "bug": [
+    {
+      "nome": "caterpie",
+      "tipo": [
+        "bug"
+      ],
+      "status": [
+        "hp - 45",
+        "attack - 30",
+        "defense - 35",
+        "special-attack - 20",
+        "special-defense - 20",
+        "speed - 45"
+      ],
+      "numeroDex": 10,
+      "altura": 3,
+      "peso": 29,
+      "moves": [
+        "tackle",
+        "string-shot",
+        "snore",
+        "bug-bite"
+      ]
+    },
+    {
+      "nome": "metapod",
+      "tipo": [
+        "bug"
+      ],
+      "status": [
+        "hp - 50",
+        "attack - 20",
+        "defense - 55",
+        "special-attack - 25",
+        "special-defense - 25",
+        "speed - 30"
+      ],
+      "numeroDex": 11,
+      "altura": 7,
+      "peso": 99,
+      "moves": [
+        "string-shot",
+        "harden",
+        "iron-defense",
+        "bug-bite"
+      ]
+    },
+    {
+      "nome": "pinsir",
+      "tipo": [
+        "bug"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 125",
+        "defense - 100",
+        "special-attack - 55",
+        "special-defense - 70",
+        "speed - 85"
+      ],
+      "numeroDex": 127,
+      "altura": 15,
+      "peso": 550,
+      "moves": [
+        "vice-grip",
+        "guillotine",
+        "swords-dance",
+        "cut"
+      ]
+    }
+  ],
+  "bug,flying": [
+    {
+      "nome": "butterfree",
+      "tipo": [
+        "bug",
+        "flying"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 45",
+        "defense - 50",
+        "special-attack - 90",
+        "special-defense - 80",
+        "speed - 70"
+      ],
+      "numeroDex": 12,
+      "altura": 11,
+      "peso": 320,
+      "moves": [
+        "razor-wind",
+        "gust",
+        "whirlwind",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "scyther",
+      "tipo": [
+        "bug",
+        "flying"
+      ],
+      "status": [
+        "hp - 70",
+        "attack - 110",
+        "defense - 80",
+        "special-attack - 55",
+        "special-defense - 80",
+        "speed - 105"
+      ],
+      "numeroDex": 123,
+      "altura": 15,
+      "peso": 560,
+      "moves": [
+        "razor-wind",
+        "swords-dance",
+        "cut",
+        "wing-attack"
+      ]
+    }
+  ],
+  "bug,poison": [
+    {
+      "nome": "weedle",
+      "tipo": [
+        "bug",
+        "poison"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 35",
+        "defense - 30",
+        "special-attack - 20",
+        "special-defense - 20",
+        "speed - 50"
+      ],
+      "numeroDex": 13,
+      "altura": 3,
+      "peso": 32,
+      "moves": [
+        "poison-sting",
+        "string-shot",
+        "bug-bite",
+        "electroweb"
+      ]
+    },
+    {
+      "nome": "kakuna",
+      "tipo": [
+        "bug",
+        "poison"
+      ],
+      "status": [
+        "hp - 45",
+        "attack - 25",
+        "defense - 50",
+        "special-attack - 25",
+        "special-defense - 25",
+        "speed - 35"
+      ],
+      "numeroDex": 14,
+      "altura": 6,
+      "peso": 100,
+      "moves": [
+        "string-shot",
+        "harden",
+        "iron-defense",
+        "bug-bite"
+      ]
+    },
+    {
+      "nome": "beedrill",
+      "tipo": [
+        "bug",
+        "poison"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 90",
+        "defense - 40",
+        "special-attack - 45",
+        "special-defense - 80",
+        "speed - 75"
+      ],
+      "numeroDex": 15,
+      "altura": 10,
+      "peso": 295,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "headbutt",
+        "fury-attack"
+      ]
+    },
+    {
+      "nome": "venonat",
+      "tipo": [
+        "bug",
+        "poison"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 55",
+        "defense - 50",
+        "special-attack - 40",
+        "special-defense - 55",
+        "speed - 45"
+      ],
+      "numeroDex": 48,
+      "altura": 10,
+      "peso": 300,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge"
+      ]
+    },
+    {
+      "nome": "venomoth",
+      "tipo": [
+        "bug",
+        "poison"
+      ],
+      "status": [
+        "hp - 70",
+        "attack - 65",
+        "defense - 60",
+        "special-attack - 90",
+        "special-defense - 75",
+        "speed - 90"
+      ],
+      "numeroDex": 49,
+      "altura": 15,
+      "peso": 125,
+      "moves": [
+        "razor-wind",
+        "gust",
+        "whirlwind",
+        "headbutt"
+      ]
+    }
+  ],
+  "normal,flying": [
+    {
+      "nome": "pidgey",
+      "tipo": [
+        "normal",
+        "flying"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 45",
+        "defense - 40",
+        "special-attack - 35",
+        "special-defense - 35",
+        "speed - 56"
+      ],
+      "numeroDex": 16,
+      "altura": 3,
+      "peso": 18,
+      "moves": [
+        "razor-wind",
+        "gust",
+        "wing-attack",
+        "whirlwind"
+      ]
+    },
+    {
+      "nome": "pidgeotto",
+      "tipo": [
+        "normal",
+        "flying"
+      ],
+      "status": [
+        "hp - 63",
+        "attack - 60",
+        "defense - 55",
+        "special-attack - 50",
+        "special-defense - 50",
+        "speed - 71"
+      ],
+      "numeroDex": 17,
+      "altura": 11,
+      "peso": 300,
+      "moves": [
+        "razor-wind",
+        "gust",
+        "wing-attack",
+        "whirlwind"
+      ]
+    },
+    {
+      "nome": "pidgeot",
+      "tipo": [
+        "normal",
+        "flying"
+      ],
+      "status": [
+        "hp - 83",
+        "attack - 80",
+        "defense - 75",
+        "special-attack - 70",
+        "special-defense - 70",
+        "speed - 101"
+      ],
+      "numeroDex": 18,
+      "altura": 15,
+      "peso": 395,
+      "moves": [
+        "razor-wind",
+        "gust",
+        "wing-attack",
+        "whirlwind"
+      ]
+    },
+    {
+      "nome": "spearow",
+      "tipo": [
+        "normal",
+        "flying"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 60",
+        "defense - 30",
+        "special-attack - 31",
+        "special-defense - 31",
+        "speed - 70"
+      ],
+      "numeroDex": 21,
+      "altura": 3,
+      "peso": 20,
+      "moves": [
+        "razor-wind",
+        "whirlwind",
+        "fly",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "fearow",
+      "tipo": [
+        "normal",
+        "flying"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 90",
+        "defense - 65",
+        "special-attack - 61",
+        "special-defense - 61",
+        "speed - 100"
+      ],
+      "numeroDex": 22,
+      "altura": 12,
+      "peso": 380,
+      "moves": [
+        "razor-wind",
+        "whirlwind",
+        "fly",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "farfetchd",
+      "tipo": [
+        "normal",
+        "flying"
+      ],
+      "status": [
+        "hp - 52",
+        "attack - 90",
+        "defense - 55",
+        "special-attack - 58",
+        "special-defense - 62",
+        "speed - 60"
+      ],
+      "numeroDex": 83,
+      "altura": 8,
+      "peso": 150,
+      "moves": [
+        "razor-wind",
+        "swords-dance",
+        "cut",
+        "gust"
+      ]
+    },
+    {
+      "nome": "doduo",
+      "tipo": [
+        "normal",
+        "flying"
+      ],
+      "status": [
+        "hp - 35",
+        "attack - 85",
+        "defense - 45",
+        "special-attack - 35",
+        "special-defense - 35",
+        "speed - 75"
+      ],
+      "numeroDex": 84,
+      "altura": 14,
+      "peso": 392,
+      "moves": [
+        "swords-dance",
+        "whirlwind",
+        "fly",
+        "jump-kick"
+      ]
+    },
+    {
+      "nome": "dodrio",
+      "tipo": [
+        "normal",
+        "flying"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 110",
+        "defense - 70",
+        "special-attack - 60",
+        "special-defense - 60",
+        "speed - 110"
+      ],
+      "numeroDex": 85,
+      "altura": 18,
+      "peso": 852,
+      "moves": [
+        "swords-dance",
+        "whirlwind",
+        "fly",
+        "jump-kick"
+      ]
+    }
+  ],
+  "normal": [
+    {
+      "nome": "rattata",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 30",
+        "attack - 56",
+        "defense - 35",
+        "special-attack - 25",
+        "special-defense - 35",
+        "speed - 72"
+      ],
+      "numeroDex": 19,
+      "altura": 3,
+      "peso": 35,
+      "moves": [
+        "cut",
+        "headbutt",
+        "tackle",
+        "body-slam"
+      ]
+    },
+    {
+      "nome": "raticate",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 55",
+        "attack - 81",
+        "defense - 60",
+        "special-attack - 50",
+        "special-defense - 70",
+        "speed - 97"
+      ],
+      "numeroDex": 20,
+      "altura": 7,
+      "peso": 185,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "headbutt",
+        "tackle"
+      ]
+    },
+    {
+      "nome": "meowth",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 45",
+        "defense - 35",
+        "special-attack - 40",
+        "special-defense - 40",
+        "speed - 90"
+      ],
+      "numeroDex": 52,
+      "altura": 4,
+      "peso": 42,
+      "moves": [
+        "pay-day",
+        "scratch",
+        "cut",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "persian",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 70",
+        "defense - 60",
+        "special-attack - 65",
+        "special-defense - 65",
+        "speed - 115"
+      ],
+      "numeroDex": 53,
+      "altura": 10,
+      "peso": 320,
+      "moves": [
+        "pay-day",
+        "scratch",
+        "cut",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "lickitung",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 90",
+        "attack - 55",
+        "defense - 75",
+        "special-attack - 60",
+        "special-defense - 75",
+        "speed - 30"
+      ],
+      "numeroDex": 108,
+      "altura": 12,
+      "peso": 655,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+      ]
+    },
+    {
+      "nome": "chansey",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 250",
+        "attack - 5",
+        "defense - 5",
+        "special-attack - 35",
+        "special-defense - 105",
+        "speed - 50"
+      ],
+      "numeroDex": 113,
+      "altura": 11,
+      "peso": 346,
+      "moves": [
+        "pound",
+        "double-slap",
+        "mega-punch",
+        "fire-punch"
+      ]
+    },
+    {
+      "nome": "kangaskhan",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 105",
+        "attack - 95",
+        "defense - 80",
+        "special-attack - 40",
+        "special-defense - 80",
+        "speed - 90"
+      ],
+      "numeroDex": 115,
+      "altura": 22,
+      "peso": 800,
+      "moves": [
+        "pound",
+        "comet-punch",
+        "mega-punch",
+        "fire-punch"
+      ]
+    },
+    {
+      "nome": "tauros",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 75",
+        "attack - 100",
+        "defense - 95",
+        "special-attack - 40",
+        "special-defense - 70",
+        "speed - 110"
+      ],
+      "numeroDex": 128,
+      "altura": 14,
+      "peso": 884,
+      "moves": [
+        "stomp",
+        "headbutt",
+        "horn-attack",
+        "horn-drill"
+      ]
+    },
+    {
+      "nome": "ditto",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 48",
+        "attack - 48",
+        "defense - 48",
+        "special-attack - 48",
+        "special-defense - 48",
+        "speed - 48"
+      ],
+      "numeroDex": 132,
+      "altura": 3,
+      "peso": 40,
+      "moves": [
+        "transform"
+      ]
+    },
+    {
+      "nome": "eevee",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 55",
+        "attack - 55",
+        "defense - 50",
+        "special-attack - 45",
+        "special-defense - 65",
+        "speed - 55"
+      ],
+      "numeroDex": 133,
+      "altura": 3,
+      "peso": 65,
+      "moves": [
+        "pay-day",
+        "double-kick",
+        "sand-attack",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "porygon",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 60",
+        "defense - 70",
+        "special-attack - 85",
+        "special-defense - 75",
+        "speed - 40"
+      ],
+      "numeroDex": 137,
+      "altura": 8,
+      "peso": 365,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge"
+      ]
+    },
+    {
+      "nome": "snorlax",
+      "tipo": [
+        "normal"
+      ],
+      "status": [
+        "hp - 160",
+        "attack - 110",
+        "defense - 65",
+        "special-attack - 65",
+        "special-defense - 110",
+        "speed - 30"
+      ],
+      "numeroDex": 143,
+      "altura": 21,
+      "peso": 4600,
+      "moves": [
+        "mega-punch",
+        "pay-day",
+        "fire-punch",
+        "ice-punch"
+      ]
+    }
+  ],
+  "poison": [
+    {
+      "nome": "ekans",
+      "tipo": [
+        "poison"
+      ],
+      "status": [
+        "hp - 35",
+        "attack - 60",
+        "defense - 44",
+        "special-attack - 40",
+        "special-defense - 54",
+        "speed - 55"
+      ],
+      "numeroDex": 23,
+      "altura": 20,
+      "peso": 69,
+      "moves": [
+        "bind",
+        "slam",
+        "headbutt",
+        "body-slam"
+      ]
+    },
+    {
+      "nome": "arbok",
+      "tipo": [
+        "poison"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 95",
+        "defense - 69",
+        "special-attack - 65",
+        "special-defense - 79",
+        "speed - 80"
+      ],
+      "numeroDex": 24,
+      "altura": 35,
+      "peso": 650,
+      "moves": [
+        "bind",
+        "slam",
+        "headbutt",
+        "body-slam"
+      ]
+    },
+    {
+      "nome": "nidoran-f",
+      "tipo": [
+        "poison"
+      ],
+      "status": [
+        "hp - 55",
+        "attack - 47",
+        "defense - 52",
+        "special-attack - 40",
+        "special-defense - 40",
+        "speed - 41"
+      ],
+      "numeroDex": 29,
+      "altura": 4,
+      "peso": 70,
+      "moves": [
+        "scratch",
+        "cut",
+        "double-kick",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "nidorina",
+      "tipo": [
+        "poison"
+      ],
+      "status": [
+        "hp - 70",
+        "attack - 62",
+        "defense - 67",
+        "special-attack - 55",
+        "special-defense - 55",
+        "speed - 56"
+      ],
+      "numeroDex": 30,
+      "altura": 8,
+      "peso": 200,
+      "moves": [
+        "scratch",
+        "cut",
+        "double-kick",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "nidoran-m",
+      "tipo": [
+        "poison"
+      ],
+      "status": [
+        "hp - 46",
+        "attack - 57",
+        "defense - 40",
+        "special-attack - 40",
+        "special-defense - 40",
+        "speed - 50"
+      ],
+      "numeroDex": 32,
+      "altura": 5,
+      "peso": 90,
+      "moves": [
+        "cut",
+        "double-kick",
+        "headbutt",
+        "horn-attack"
+      ]
+    },
+    {
+      "nome": "nidorino",
+      "tipo": [
+        "poison"
+      ],
+      "status": [
+        "hp - 61",
+        "attack - 72",
+        "defense - 57",
+        "special-attack - 55",
+        "special-defense - 55",
+        "speed - 65"
+      ],
+      "numeroDex": 33,
+      "altura": 9,
+      "peso": 195,
+      "moves": [
+        "cut",
+        "double-kick",
+        "headbutt",
+        "horn-attack"
+      ]
+    },
+    {
+      "nome": "grimer",
+      "tipo": [
+        "poison"
+      ],
+      "status": [
+        "hp - 80",
+        "attack - 80",
+        "defense - 50",
+        "special-attack - 40",
+        "special-defense - 50",
+        "speed - 25"
+      ],
+      "numeroDex": 88,
+      "altura": 9,
+      "peso": 300,
+      "moves": [
+        "pound",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+      ]
+    },
+    {
+      "nome": "muk",
+      "tipo": [
+        "poison"
+      ],
+      "status": [
+        "hp - 105",
+        "attack - 105",
+        "defense - 75",
+        "special-attack - 65",
+        "special-defense - 100",
+        "speed - 50"
+      ],
+      "numeroDex": 89,
+      "altura": 12,
+      "peso": 300,
+      "moves": [
+        "pound",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+      ]
+    },
+    {
+      "nome": "koffing",
+      "tipo": [
+        "poison"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 65",
+        "defense - 95",
+        "special-attack - 60",
+        "special-defense - 45",
+        "speed - 35"
+      ],
+      "numeroDex": 109,
+      "altura": 6,
+      "peso": 10,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "flamethrower",
+        "psybeam"
+      ]
+    },
+    {
+      "nome": "weezing",
+      "tipo": [
+        "poison"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 90",
+        "defense - 120",
+        "special-attack - 85",
+        "special-defense - 70",
+        "speed - 60"
+      ],
+      "numeroDex": 110,
+      "altura": 12,
+      "peso": 95,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "flamethrower",
+        "psybeam"
+      ]
+    }
+  ],
+  "electric": [
+    {
+      "nome": "pikachu",
+      "tipo": [
+        "electric"
+      ],
+      "status": [
+        "hp - 35",
+        "attack - 55",
+        "defense - 40",
+        "special-attack - 50",
+        "special-defense - 50",
+        "speed - 90"
+      ],
+      "numeroDex": 25,
+      "altura": 4,
+      "peso": 60,
+      "moves": [
+        "mega-punch",
+        "pay-day",
+        "thunder-punch",
+        "slam"
+      ]
+    },
+    {
+      "nome": "raichu",
+      "tipo": [
+        "electric"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 90",
+        "defense - 55",
+        "special-attack - 90",
+        "special-defense - 80",
+        "speed - 110"
+      ],
+      "numeroDex": 26,
+      "altura": 8,
+      "peso": 300,
+      "moves": [
+        "mega-punch",
+        "pay-day",
+        "thunder-punch",
+        "slam"
+      ]
+    },
+    {
+      "nome": "voltorb",
+      "tipo": [
+        "electric"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 30",
+        "defense - 50",
+        "special-attack - 55",
+        "special-defense - 55",
+        "speed - 100"
+      ],
+      "numeroDex": 100,
+      "altura": 5,
+      "peso": 104,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "sonic-boom"
+      ]
+    },
+    {
+      "nome": "electrode",
+      "tipo": [
+        "electric"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 50",
+        "defense - 70",
+        "special-attack - 80",
+        "special-defense - 80",
+        "speed - 150"
+      ],
+      "numeroDex": 101,
+      "altura": 12,
+      "peso": 666,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "sonic-boom"
+      ]
+    },
+    {
+      "nome": "electabuzz",
+      "tipo": [
+        "electric"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 83",
+        "defense - 57",
+        "special-attack - 95",
+        "special-defense - 85",
+        "speed - 105"
+      ],
+      "numeroDex": 125,
+      "altura": 11,
+      "peso": 300,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+      ]
+    },
+    {
+      "nome": "jolteon",
+      "tipo": [
+        "electric"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 65",
+        "defense - 60",
+        "special-attack - 110",
+        "special-defense - 95",
+        "speed - 130"
+      ],
+      "numeroDex": 135,
+      "altura": 8,
+      "peso": 245,
+      "moves": [
+        "pay-day",
+        "double-kick",
+        "sand-attack",
+        "headbutt"
+      ]
+    }
+  ],
+  "ground": [
+    {
+      "nome": "sandshrew",
+      "tipo": [
+        "ground"
+      ],
+      "status": [
+        "hp - 50",
+        "attack - 75",
+        "defense - 85",
+        "special-attack - 20",
+        "special-defense - 30",
+        "speed - 40"
+      ],
+      "numeroDex": 27,
+      "altura": 6,
+      "peso": 120,
+      "moves": [
+        "scratch",
+        "swords-dance",
+        "cut",
+        "sand-attack"
+      ]
+    },
+    {
+      "nome": "sandslash",
+      "tipo": [
+        "ground"
+      ],
+      "status": [
+        "hp - 75",
+        "attack - 100",
+        "defense - 110",
+        "special-attack - 45",
+        "special-defense - 55",
+        "speed - 65"
+      ],
+      "numeroDex": 28,
+      "altura": 10,
+      "peso": 295,
+      "moves": [
+        "scratch",
+        "swords-dance",
+        "cut",
+        "sand-attack"
+      ]
+    },
+    {
+      "nome": "diglett",
+      "tipo": [
+        "ground"
+      ],
+      "status": [
+        "hp - 10",
+        "attack - 55",
+        "defense - 25",
+        "special-attack - 35",
+        "special-defense - 45",
+        "speed - 95"
+      ],
+      "numeroDex": 50,
+      "altura": 2,
+      "peso": 8,
+      "moves": [
+        "scratch",
+        "swords-dance",
+        "cut",
+        "sand-attack"
+      ]
+    },
+    {
+      "nome": "dugtrio",
+      "tipo": [
+        "ground"
+      ],
+      "status": [
+        "hp - 35",
+        "attack - 100",
+        "defense - 50",
+        "special-attack - 50",
+        "special-defense - 70",
+        "speed - 120"
+      ],
+      "numeroDex": 51,
+      "altura": 7,
+      "peso": 333,
+      "moves": [
+        "scratch",
+        "swords-dance",
+        "cut",
+        "sand-attack"
+      ]
+    },
+    {
+      "nome": "cubone",
+      "tipo": [
+        "ground"
+      ],
+      "status": [
+        "hp - 50",
+        "attack - 50",
+        "defense - 95",
+        "special-attack - 40",
+        "special-defense - 50",
+        "speed - 35"
+      ],
+      "numeroDex": 104,
+      "altura": 4,
+      "peso": 65,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "swords-dance"
+      ]
+    },
+    {
+      "nome": "marowak",
+      "tipo": [
+        "ground"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 80",
+        "defense - 110",
+        "special-attack - 50",
+        "special-defense - 80",
+        "speed - 45"
+      ],
+      "numeroDex": 105,
+      "altura": 10,
+      "peso": 450,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "swords-dance"
+      ]
+    }
+  ],
+  "poison,ground": [
+    {
+      "nome": "nidoqueen",
+      "tipo": [
+        "poison",
+        "ground"
+      ],
+      "status": [
+        "hp - 90",
+        "attack - 92",
+        "defense - 87",
+        "special-attack - 75",
+        "special-defense - 85",
+        "speed - 76"
+      ],
+      "numeroDex": 31,
+      "altura": 13,
+      "peso": 600,
+      "moves": [
+        "mega-punch",
+        "pay-day",
+        "fire-punch",
+        "ice-punch"
+      ]
+    },
+    {
+      "nome": "nidoking",
+      "tipo": [
+        "poison",
+        "ground"
+      ],
+      "status": [
+        "hp - 81",
+        "attack - 102",
+        "defense - 77",
+        "special-attack - 85",
+        "special-defense - 75",
+        "speed - 85"
+      ],
+      "numeroDex": 34,
+      "altura": 14,
+      "peso": 620,
+      "moves": [
+        "mega-punch",
+        "pay-day",
+        "fire-punch",
+        "ice-punch"
+      ]
+    }
+  ],
+  "fairy": [
+    {
+      "nome": "clefairy",
+      "tipo": [
+        "fairy"
+      ],
+      "status": [
+        "hp - 70",
+        "attack - 45",
+        "defense - 48",
+        "special-attack - 60",
+        "special-defense - 65",
+        "speed - 35"
+      ],
+      "numeroDex": 35,
+      "altura": 6,
+      "peso": 75,
+      "moves": [
+        "pound",
+        "double-slap",
+        "mega-punch",
+        "fire-punch"
+      ]
+    },
+    {
+      "nome": "clefable",
+      "tipo": [
+        "fairy"
+      ],
+      "status": [
+        "hp - 95",
+        "attack - 70",
+        "defense - 73",
+        "special-attack - 95",
+        "special-defense - 90",
+        "speed - 60"
+      ],
+      "numeroDex": 36,
+      "altura": 13,
+      "peso": 400,
+      "moves": [
+        "pound",
+        "double-slap",
+        "mega-punch",
+        "fire-punch"
+      ]
+    }
+  ],
+  "normal,fairy": [
+    {
+      "nome": "jigglypuff",
+      "tipo": [
+        "normal",
+        "fairy"
+      ],
+      "status": [
+        "hp - 115",
+        "attack - 45",
+        "defense - 20",
+        "special-attack - 45",
+        "special-defense - 25",
+        "speed - 20"
+      ],
+      "numeroDex": 39,
+      "altura": 5,
+      "peso": 55,
+      "moves": [
+        "pound",
+        "double-slap",
+        "mega-punch",
+        "fire-punch"
+      ]
+    },
+    {
+      "nome": "wigglytuff",
+      "tipo": [
+        "normal",
+        "fairy"
+      ],
+      "status": [
+        "hp - 140",
+        "attack - 70",
+        "defense - 45",
+        "special-attack - 85",
+        "special-defense - 50",
+        "speed - 45"
+      ],
+      "numeroDex": 40,
+      "altura": 10,
+      "peso": 120,
+      "moves": [
+        "pound",
+        "double-slap",
+        "mega-punch",
+        "fire-punch"
+      ]
+    }
+  ],
+  "poison,flying": [
+    {
+      "nome": "zubat",
+      "tipo": [
+        "poison",
+        "flying"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 45",
+        "defense - 35",
+        "special-attack - 30",
+        "special-defense - 40",
+        "speed - 55"
+      ],
+      "numeroDex": 41,
+      "altura": 8,
+      "peso": 75,
+      "moves": [
+        "razor-wind",
+        "gust",
+        "wing-attack",
+        "whirlwind"
+      ]
+    },
+    {
+      "nome": "golbat",
+      "tipo": [
+        "poison",
+        "flying"
+      ],
+      "status": [
+        "hp - 75",
+        "attack - 80",
+        "defense - 70",
+        "special-attack - 65",
+        "special-defense - 75",
+        "speed - 90"
+      ],
+      "numeroDex": 42,
+      "altura": 16,
+      "peso": 550,
+      "moves": [
+        "razor-wind",
+        "wing-attack",
+        "whirlwind",
+        "fly"
+      ]
+    }
+  ],
+  "bug,grass": [
+    {
+      "nome": "paras",
+      "tipo": [
+        "bug",
+        "grass"
+      ],
+      "status": [
+        "hp - 35",
+        "attack - 70",
+        "defense - 55",
+        "special-attack - 45",
+        "special-defense - 55",
+        "speed - 25"
+      ],
+      "numeroDex": 46,
+      "altura": 3,
+      "peso": 54,
+      "moves": [
+        "scratch",
+        "swords-dance",
+        "cut",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "parasect",
+      "tipo": [
+        "bug",
+        "grass"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 95",
+        "defense - 80",
+        "special-attack - 60",
+        "special-defense - 80",
+        "speed - 30"
+      ],
+      "numeroDex": 47,
+      "altura": 10,
+      "peso": 295,
+      "moves": [
+        "scratch",
+        "swords-dance",
+        "cut",
+        "headbutt"
+      ]
+    }
+  ],
+  "fighting": [
+    {
+      "nome": "mankey",
+      "tipo": [
+        "fighting"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 80",
+        "defense - 35",
+        "special-attack - 35",
+        "special-defense - 45",
+        "speed - 70"
+      ],
+      "numeroDex": 56,
+      "altura": 5,
+      "peso": 280,
+      "moves": [
+        "karate-chop",
+        "mega-punch",
+        "pay-day",
+        "fire-punch"
+      ]
+    },
+    {
+      "nome": "primeape",
+      "tipo": [
+        "fighting"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 105",
+        "defense - 60",
+        "special-attack - 60",
+        "special-defense - 70",
+        "speed - 95"
+      ],
+      "numeroDex": 57,
+      "altura": 10,
+      "peso": 320,
+      "moves": [
+        "karate-chop",
+        "mega-punch",
+        "pay-day",
+        "fire-punch"
+      ]
+    },
+    {
+      "nome": "machop",
+      "tipo": [
+        "fighting"
+      ],
+      "status": [
+        "hp - 70",
+        "attack - 80",
+        "defense - 50",
+        "special-attack - 35",
+        "special-defense - 35",
+        "speed - 35"
+      ],
+      "numeroDex": 66,
+      "altura": 8,
+      "peso": 195,
+      "moves": [
+        "karate-chop",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+      ]
+    },
+    {
+      "nome": "machoke",
+      "tipo": [
+        "fighting"
+      ],
+      "status": [
+        "hp - 80",
+        "attack - 100",
+        "defense - 70",
+        "special-attack - 50",
+        "special-defense - 60",
+        "speed - 45"
+      ],
+      "numeroDex": 67,
+      "altura": 15,
+      "peso": 705,
+      "moves": [
+        "karate-chop",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+      ]
+    },
+    {
+      "nome": "machamp",
+      "tipo": [
+        "fighting"
+      ],
+      "status": [
+        "hp - 90",
+        "attack - 130",
+        "defense - 80",
+        "special-attack - 65",
+        "special-defense - 85",
+        "speed - 55"
+      ],
+      "numeroDex": 68,
+      "altura": 16,
+      "peso": 1300,
+      "moves": [
+        "karate-chop",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+      ]
+    },
+    {
+      "nome": "hitmonlee",
+      "tipo": [
+        "fighting"
+      ],
+      "status": [
+        "hp - 50",
+        "attack - 120",
+        "defense - 53",
+        "special-attack - 35",
+        "special-defense - 110",
+        "speed - 87"
+      ],
+      "numeroDex": 106,
+      "altura": 15,
+      "peso": 498,
+      "moves": [
+        "mega-punch",
+        "double-kick",
+        "mega-kick",
+        "jump-kick"
+      ]
+    },
+    {
+      "nome": "hitmonchan",
+      "tipo": [
+        "fighting"
+      ],
+      "status": [
+        "hp - 50",
+        "attack - 105",
+        "defense - 79",
+        "special-attack - 35",
+        "special-defense - 110",
+        "speed - 76"
+      ],
+      "numeroDex": 107,
+      "altura": 14,
+      "peso": 502,
+      "moves": [
+        "comet-punch",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+      ]
+    }
+  ],
+  "water,fighting": [
+    {
+      "nome": "poliwrath",
+      "tipo": [
+        "water",
+        "fighting"
+      ],
+      "status": [
+        "hp - 90",
+        "attack - 95",
+        "defense - 95",
+        "special-attack - 70",
+        "special-defense - 90",
+        "speed - 70"
+      ],
+      "numeroDex": 62,
+      "altura": 13,
+      "peso": 540,
+      "moves": [
+        "pound",
+        "double-slap",
+        "mega-punch",
+        "ice-punch"
+      ]
+    }
+  ],
+  "psychic": [
+    {
+      "nome": "abra",
+      "tipo": [
+        "psychic"
+      ],
+      "status": [
+        "hp - 25",
+        "attack - 20",
+        "defense - 15",
+        "special-attack - 105",
+        "special-defense - 55",
+        "speed - 90"
+      ],
+      "numeroDex": 63,
+      "altura": 9,
+      "peso": 195,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+      ]
+    },
+    {
+      "nome": "kadabra",
+      "tipo": [
+        "psychic"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 35",
+        "defense - 30",
+        "special-attack - 120",
+        "special-defense - 70",
+        "speed - 105"
+      ],
+      "numeroDex": 64,
+      "altura": 13,
+      "peso": 565,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+      ]
+    },
+    {
+      "nome": "alakazam",
+      "tipo": [
+        "psychic"
+      ],
+      "status": [
+        "hp - 55",
+        "attack - 50",
+        "defense - 45",
+        "special-attack - 135",
+        "special-defense - 95",
+        "speed - 120"
+      ],
+      "numeroDex": 65,
+      "altura": 15,
+      "peso": 480,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+      ]
+    },
+    {
+      "nome": "drowzee",
+      "tipo": [
+        "psychic"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 48",
+        "defense - 45",
+        "special-attack - 43",
+        "special-defense - 90",
+        "speed - 42"
+      ],
+      "numeroDex": 96,
+      "altura": 10,
+      "peso": 324,
+      "moves": [
+        "pound",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+      ]
+    },
+    {
+      "nome": "hypno",
+      "tipo": [
+        "psychic"
+      ],
+      "status": [
+        "hp - 85",
+        "attack - 73",
+        "defense - 70",
+        "special-attack - 73",
+        "special-defense - 115",
+        "speed - 67"
+      ],
+      "numeroDex": 97,
+      "altura": 16,
+      "peso": 756,
+      "moves": [
+        "pound",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+      ]
+    },
+    {
+      "nome": "mewtwo",
+      "tipo": [
+        "psychic"
+      ],
+      "status": [
+        "hp - 106",
+        "attack - 110",
+        "defense - 90",
+        "special-attack - 154",
+        "special-defense - 90",
+        "speed - 130"
+      ],
+      "numeroDex": 150,
+      "altura": 20,
+      "peso": 1220,
+      "moves": [
+        "mega-punch",
+        "pay-day",
+        "fire-punch",
+        "ice-punch"
+      ]
+    },
+    {
+      "nome": "mew",
+      "tipo": [
+        "psychic"
+      ],
+      "status": [
+        "hp - 100",
+        "attack - 100",
+        "defense - 100",
+        "special-attack - 100",
+        "special-defense - 100",
+        "speed - 100"
+      ],
+      "numeroDex": 151,
+      "altura": 4,
+      "peso": 40,
+      "moves": [
+        "pound",
+        "mega-punch",
+        "pay-day",
+        "fire-punch"
+      ]
+    }
+  ],
+  "water,poison": [
+    {
+      "nome": "tentacool",
+      "tipo": [
+        "water",
+        "poison"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 40",
+        "defense - 35",
+        "special-attack - 50",
+        "special-defense - 100",
+        "speed - 70"
+      ],
+      "numeroDex": 72,
+      "altura": 9,
+      "peso": 455,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "bind",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "tentacruel",
+      "tipo": [
+        "water",
+        "poison"
+      ],
+      "status": [
+        "hp - 80",
+        "attack - 70",
+        "defense - 65",
+        "special-attack - 80",
+        "special-defense - 120",
+        "speed - 100"
+      ],
+      "numeroDex": 73,
+      "altura": 16,
+      "peso": 550,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "bind",
+        "headbutt"
+      ]
+    }
+  ],
+  "rock,ground": [
+    {
+      "nome": "geodude",
+      "tipo": [
+        "rock",
+        "ground"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 80",
+        "defense - 100",
+        "special-attack - 30",
+        "special-defense - 30",
+        "speed - 20"
+      ],
+      "numeroDex": 74,
+      "altura": 4,
+      "peso": 200,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "sand-attack"
+      ]
+    },
+    {
+      "nome": "graveler",
+      "tipo": [
+        "rock",
+        "ground"
+      ],
+      "status": [
+        "hp - 55",
+        "attack - 95",
+        "defense - 115",
+        "special-attack - 45",
+        "special-defense - 45",
+        "speed - 35"
+      ],
+      "numeroDex": 75,
+      "altura": 10,
+      "peso": 1050,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "sand-attack"
+      ]
+    },
+    {
+      "nome": "golem",
+      "tipo": [
+        "rock",
+        "ground"
+      ],
+      "status": [
+        "hp - 80",
+        "attack - 120",
+        "defense - 130",
+        "special-attack - 55",
+        "special-defense - 65",
+        "speed - 45"
+      ],
+      "numeroDex": 76,
+      "altura": 14,
+      "peso": 3000,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "mega-kick"
+      ]
+    },
+    {
+      "nome": "onix",
+      "tipo": [
+        "rock",
+        "ground"
+      ],
+      "status": [
+        "hp - 35",
+        "attack - 45",
+        "defense - 160",
+        "special-attack - 30",
+        "special-defense - 45",
+        "speed - 70"
+      ],
+      "numeroDex": 95,
+      "altura": 88,
+      "peso": 2100,
+      "moves": [
+        "bind",
+        "slam",
+        "headbutt",
+        "tackle"
+      ]
+    }
+  ],
+  "water,psychic": [
+    {
+      "nome": "slowpoke",
+      "tipo": [
+        "water",
+        "psychic"
+      ],
+      "status": [
+        "hp - 90",
+        "attack - 65",
+        "defense - 65",
+        "special-attack - 40",
+        "special-defense - 40",
+        "speed - 15"
+      ],
+      "numeroDex": 79,
+      "altura": 12,
+      "peso": 360,
+      "moves": [
+        "pay-day",
+        "stomp",
+        "headbutt",
+        "tackle"
+      ]
+    },
+    {
+      "nome": "slowbro",
+      "tipo": [
+        "water",
+        "psychic"
+      ],
+      "status": [
+        "hp - 95",
+        "attack - 75",
+        "defense - 110",
+        "special-attack - 100",
+        "special-defense - 80",
+        "speed - 30"
+      ],
+      "numeroDex": 80,
+      "altura": 16,
+      "peso": 785,
+      "moves": [
+        "mega-punch",
+        "pay-day",
+        "ice-punch",
+        "stomp"
+      ]
+    },
+    {
+      "nome": "starmie",
+      "tipo": [
+        "water",
+        "psychic"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 75",
+        "defense - 85",
+        "special-attack - 100",
+        "special-defense - 85",
+        "speed - 115"
+      ],
+      "numeroDex": 121,
+      "altura": 11,
+      "peso": 800,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge"
+      ]
+    }
+  ],
+  "electric,steel": [
+    {
+      "nome": "magnemite",
+      "tipo": [
+        "electric",
+        "steel"
+      ],
+      "status": [
+        "hp - 25",
+        "attack - 35",
+        "defense - 70",
+        "special-attack - 95",
+        "special-defense - 55",
+        "speed - 45"
+      ],
+      "numeroDex": 81,
+      "altura": 3,
+      "peso": 60,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge"
+      ]
+    },
+    {
+      "nome": "magneton",
+      "tipo": [
+        "electric",
+        "steel"
+      ],
+      "status": [
+        "hp - 50",
+        "attack - 60",
+        "defense - 95",
+        "special-attack - 120",
+        "special-defense - 70",
+        "speed - 70"
+      ],
+      "numeroDex": 82,
+      "altura": 10,
+      "peso": 600,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge"
+      ]
+    }
+  ],
+  "water,ice": [
+    {
+      "nome": "dewgong",
+      "tipo": [
+        "water",
+        "ice"
+      ],
+      "status": [
+        "hp - 90",
+        "attack - 70",
+        "defense - 80",
+        "special-attack - 70",
+        "special-defense - 95",
+        "speed - 70"
+      ],
+      "numeroDex": 87,
+      "altura": 17,
+      "peso": 1200,
+      "moves": [
+        "pay-day",
+        "headbutt",
+        "horn-drill",
+        "body-slam"
+      ]
+    },
+    {
+      "nome": "cloyster",
+      "tipo": [
+        "water",
+        "ice"
+      ],
+      "status": [
+        "hp - 50",
+        "attack - 95",
+        "defense - 180",
+        "special-attack - 85",
+        "special-defense - 45",
+        "speed - 70"
+      ],
+      "numeroDex": 91,
+      "altura": 15,
+      "peso": 1325,
+      "moves": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+      ]
+    },
+    {
+      "nome": "lapras",
+      "tipo": [
+        "water",
+        "ice"
+      ],
+      "status": [
+        "hp - 130",
+        "attack - 85",
+        "defense - 80",
+        "special-attack - 85",
+        "special-defense - 95",
+        "speed - 60"
+      ],
+      "numeroDex": 131,
+      "altura": 25,
+      "peso": 2200,
+      "moves": [
+        "headbutt",
+        "horn-drill",
+        "body-slam",
+        "take-down"
+      ]
+    }
+  ],
+  "ghost,poison": [
+    {
+      "nome": "gastly",
+      "tipo": [
+        "ghost",
+        "poison"
+      ],
+      "status": [
+        "hp - 30",
+        "attack - 35",
+        "defense - 30",
+        "special-attack - 100",
+        "special-defense - 35",
+        "speed - 80"
+      ],
+      "numeroDex": 92,
+      "altura": 13,
+      "peso": 1,
+      "moves": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "haunter",
+      "tipo": [
+        "ghost",
+        "poison"
+      ],
+      "status": [
+        "hp - 45",
+        "attack - 50",
+        "defense - 45",
+        "special-attack - 115",
+        "special-defense - 55",
+        "speed - 95"
+      ],
+      "numeroDex": 93,
+      "altura": 16,
+      "peso": 1,
+      "moves": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "gengar",
+      "tipo": [
+        "ghost",
+        "poison"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 65",
+        "defense - 60",
+        "special-attack - 130",
+        "special-defense - 75",
+        "speed - 110"
+      ],
+      "numeroDex": 94,
+      "altura": 15,
+      "peso": 405,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+      ]
+    }
+  ],
+  "grass,psychic": [
+    {
+      "nome": "exeggcute",
+      "tipo": [
+        "grass",
+        "psychic"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 40",
+        "defense - 80",
+        "special-attack - 60",
+        "special-defense - 45",
+        "speed - 40"
+      ],
+      "numeroDex": 102,
+      "altura": 4,
+      "peso": 25,
+      "moves": [
+        "swords-dance",
+        "headbutt",
+        "take-down",
+        "double-edge"
+      ]
+    },
+    {
+      "nome": "exeggutor",
+      "tipo": [
+        "grass",
+        "psychic"
+      ],
+      "status": [
+        "hp - 95",
+        "attack - 95",
+        "defense - 85",
+        "special-attack - 125",
+        "special-defense - 75",
+        "speed - 55"
+      ],
+      "numeroDex": 103,
+      "altura": 20,
+      "peso": 1200,
+      "moves": [
+        "swords-dance",
+        "stomp",
+        "headbutt",
+        "take-down"
+      ]
+    }
+  ],
+  "ground,rock": [
+    {
+      "nome": "rhyhorn",
+      "tipo": [
+        "ground",
+        "rock"
+      ],
+      "status": [
+        "hp - 80",
+        "attack - 85",
+        "defense - 95",
+        "special-attack - 30",
+        "special-defense - 30",
+        "speed - 25"
+      ],
+      "numeroDex": 111,
+      "altura": 10,
+      "peso": 1150,
+      "moves": [
+        "swords-dance",
+        "stomp",
+        "sand-attack",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "rhydon",
+      "tipo": [
+        "ground",
+        "rock"
+      ],
+      "status": [
+        "hp - 105",
+        "attack - 130",
+        "defense - 120",
+        "special-attack - 45",
+        "special-defense - 45",
+        "speed - 40"
+      ],
+      "numeroDex": 112,
+      "altura": 19,
+      "peso": 1200,
+      "moves": [
+        "mega-punch",
+        "pay-day",
+        "fire-punch",
+        "ice-punch"
+      ]
+    }
+  ],
+  "grass": [
+    {
+      "nome": "tangela",
+      "tipo": [
+        "grass"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 55",
+        "defense - 115",
+        "special-attack - 100",
+        "special-defense - 40",
+        "speed - 60"
+      ],
+      "numeroDex": 114,
+      "altura": 10,
+      "peso": 350,
+      "moves": [
+        "swords-dance",
+        "cut",
+        "bind",
+        "slam"
+      ]
+    }
+  ],
+  "psychic,fairy": [
+    {
+      "nome": "mr-mime",
+      "tipo": [
+        "psychic",
+        "fairy"
+      ],
+      "status": [
+        "hp - 40",
+        "attack - 45",
+        "defense - 65",
+        "special-attack - 100",
+        "special-defense - 120",
+        "speed - 90"
+      ],
+      "numeroDex": 122,
+      "altura": 13,
+      "peso": 545,
+      "moves": [
+        "pound",
+        "double-slap",
+        "mega-punch",
+        "fire-punch"
+      ]
+    }
+  ],
+  "ice,psychic": [
+    {
+      "nome": "jynx",
+      "tipo": [
+        "ice",
+        "psychic"
+      ],
+      "status": [
+        "hp - 65",
+        "attack - 50",
+        "defense - 35",
+        "special-attack - 115",
+        "special-defense - 95",
+        "speed - 95"
+      ],
+      "numeroDex": 124,
+      "altura": 14,
+      "peso": 406,
+      "moves": [
+        "pound",
+        "double-slap",
+        "mega-punch",
+        "ice-punch"
+      ]
+    }
+  ],
+  "water,flying": [
+    {
+      "nome": "gyarados",
+      "tipo": [
+        "water",
+        "flying"
+      ],
+      "status": [
+        "hp - 95",
+        "attack - 125",
+        "defense - 79",
+        "special-attack - 60",
+        "special-defense - 100",
+        "speed - 81"
+      ],
+      "numeroDex": 130,
+      "altura": 65,
+      "peso": 2350,
+      "moves": [
+        "bind",
+        "headbutt",
+        "tackle",
+        "body-slam"
+      ]
+    }
+  ],
+  "rock,water": [
+    {
+      "nome": "omanyte",
+      "tipo": [
+        "rock",
+        "water"
+      ],
+      "status": [
+        "hp - 35",
+        "attack - 40",
+        "defense - 100",
+        "special-attack - 90",
+        "special-defense - 55",
+        "speed - 35"
+      ],
+      "numeroDex": 138,
+      "altura": 4,
+      "peso": 75,
+      "moves": [
+        "bind",
+        "slam",
+        "sand-attack",
+        "headbutt"
+      ]
+    },
+    {
+      "nome": "omastar",
+      "tipo": [
+        "rock",
+        "water"
+      ],
+      "status": [
+        "hp - 70",
+        "attack - 60",
+        "defense - 125",
+        "special-attack - 115",
+        "special-defense - 70",
+        "speed - 55"
+      ],
+      "numeroDex": 139,
+      "altura": 10,
+      "peso": 350,
+      "moves": [
+        "bind",
+        "sand-attack",
+        "headbutt",
+        "horn-attack"
+      ]
+    },
+    {
+      "nome": "kabuto",
+      "tipo": [
+        "rock",
+        "water"
+      ],
+      "status": [
+        "hp - 30",
+        "attack - 80",
+        "defense - 90",
+        "special-attack - 55",
+        "special-defense - 45",
+        "speed - 55"
+      ],
+      "numeroDex": 140,
+      "altura": 5,
+      "peso": 115,
+      "moves": [
+        "scratch",
+        "sand-attack",
+        "headbutt",
+        "body-slam"
+      ]
+    },
+    {
+      "nome": "kabutops",
+      "tipo": [
+        "rock",
+        "water"
+      ],
+      "status": [
+        "hp - 60",
+        "attack - 115",
+        "defense - 105",
+        "special-attack - 65",
+        "special-defense - 70",
+        "speed - 80"
+      ],
+      "numeroDex": 141,
+      "altura": 13,
+      "peso": 405,
+      "moves": [
+        "scratch",
+        "razor-wind",
+        "swords-dance",
+        "cut"
+      ]
+    }
+  ],
+  "rock,flying": [
+    {
+      "nome": "aerodactyl",
+      "tipo": [
+        "rock",
+        "flying"
+      ],
+      "status": [
+        "hp - 80",
+        "attack - 105",
+        "defense - 65",
+        "special-attack - 60",
+        "special-defense - 75",
+        "speed - 130"
+      ],
+      "numeroDex": 142,
+      "altura": 18,
+      "peso": 590,
+      "moves": [
+        "razor-wind",
+        "wing-attack",
+        "whirlwind",
+        "fly"
+      ]
+    }
+  ],
+  "ice,flying": [
+    {
+      "nome": "articuno",
+      "tipo": [
+        "ice",
+        "flying"
+      ],
+      "status": [
+        "hp - 90",
+        "attack - 85",
+        "defense - 100",
+        "special-attack - 95",
+        "special-defense - 125",
+        "speed - 85"
+      ],
+      "numeroDex": 144,
+      "altura": 17,
+      "peso": 554,
+      "moves": [
+        "razor-wind",
+        "gust",
+        "whirlwind",
+        "fly"
+      ]
+    }
+  ],
+  "electric,flying": [
+    {
+      "nome": "zapdos",
+      "tipo": [
+        "electric",
+        "flying"
+      ],
+      "status": [
+        "hp - 90",
+        "attack - 90",
+        "defense - 85",
+        "special-attack - 125",
+        "special-defense - 90",
+        "speed - 100"
+      ],
+      "numeroDex": 145,
+      "altura": 16,
+      "peso": 526,
+      "moves": [
+        "razor-wind",
+        "whirlwind",
+        "fly",
+        "headbutt"
+      ]
+    }
+  ],
+  "dragon": [
+    {
+      "nome": "dratini",
+      "tipo": [
+        "dragon"
+      ],
+      "status": [
+        "hp - 41",
+        "attack - 64",
+        "defense - 45",
+        "special-attack - 50",
+        "special-defense - 50",
+        "speed - 50"
+      ],
+      "numeroDex": 147,
+      "altura": 18,
+      "peso": 33,
+      "moves": [
+        "bind",
+        "slam",
+        "headbutt",
+        "body-slam"
+      ]
+    },
+    {
+      "nome": "dragonair",
+      "tipo": [
+        "dragon"
+      ],
+      "status": [
+        "hp - 61",
+        "attack - 84",
+        "defense - 65",
+        "special-attack - 70",
+        "special-defense - 70",
+        "speed - 70"
+      ],
+      "numeroDex": 148,
+      "altura": 40,
+      "peso": 165,
+      "moves": [
+        "bind",
+        "slam",
+        "headbutt",
+        "horn-drill"
+      ]
+    }
+  ],
+  "dragon,flying": [
+    {
+      "nome": "dragonite",
+      "tipo": [
+        "dragon",
+        "flying"
+      ],
+      "status": [
+        "hp - 91",
+        "attack - 134",
+        "defense - 95",
+        "special-attack - 100",
+        "special-defense - 100",
+        "speed - 80"
+      ],
+      "numeroDex": 149,
+      "altura": 22,
+      "peso": 2100,
+      "moves": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+      ]
+    }
+  ]
+}

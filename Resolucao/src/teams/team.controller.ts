@@ -13,24 +13,23 @@ class TeamController {
   }
 
   async findByTrainer(req: Request, res: Response) {
-    const team = await new TeamService().find(req.query.name);
-    //http://localhost:3001/pokemon-team-trainer-name?name=Ash <- consulta
+    const team = await new TeamService().find(req.query.name as string);
     return res.status(200).json(team);
   }
 
   async update(req: Request, res: Response) {
-    const team = await new TeamService().update(req.query.name, req.body);
+    const team = await new TeamService().update(
+      req.query.name as string,
+      req.body
+    );
     return res.status(200).json(team);
   }
 
   async delete(req: Request, res: Response) {
-    const deletedTeam = await new TeamService().delete(req.query.name);
+    const deletedTeam = await new TeamService().delete(
+      req.query.name as string
+    );
     return res.status(200).json(deletedTeam);
-  }
-
-  async pokemonByType(req: Request, res: Response) {
-    const pokeType = await new TeamService().pokemonByType();
-    return res.status(200).json(pokeType);
   }
 }
 
